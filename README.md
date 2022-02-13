@@ -6,6 +6,9 @@
 > Try _**PrintCut v0.1**,_ PrintCut, We can Easily Edit, Resize , Delete and Text or Block in WebPage
 
 ___
+> # Demo Link
+> http://gulshan.ninja/printCut/
+---
 
 > # Steps for Use
 
